@@ -1,0 +1,145 @@
+Month,Source,Revenue,Revenue_Flag
+1,Upper Bowl,25020,Gain
+2,Upper Bowl,686664,Gain
+3,Upper Bowl,434112,Gain
+4,Upper Bowl,390879,Gain
+5,Upper Bowl,286524,Gain
+6,Upper Bowl,187056,Gain
+7,Upper Bowl,307230,Gain
+8,Upper Bowl,462672,Gain
+9,Upper Bowl,358527,Gain
+10,Upper Bowl,658944,Gain
+11,Upper Bowl,58077,Gain
+12,Upper Bowl,0,Zero
+1,Lower Bowl,1154980,Gain
+2,Lower Bowl,3327450,Gain
+3,Lower Bowl,3204408,Gain
+4,Lower Bowl,2628288,Gain
+5,Lower Bowl,2122992,Gain
+6,Lower Bowl,1289960,Gain
+7,Lower Bowl,1778832,Gain
+8,Lower Bowl,2945364,Gain
+9,Lower Bowl,2249916,Gain
+10,Lower Bowl,3410190,Gain
+11,Lower Bowl,556924,Gain
+12,Lower Bowl,0,Zero
+1,Season,0,Zero
+2,Season,527340,Gain
+3,Season,535923,Gain
+4,Season,478674,Gain
+5,Season,438702,Gain
+6,Season,228874,Gain
+7,Season,289464,Gain
+8,Season,480942,Gain
+9,Season,411540,Gain
+10,Season,416043,Gain
+11,Season,0,Zero
+12,Season,0,Zero
+1,Premium,35145,Gain
+2,Premium,398400,Gain
+3,Premium,272160,Gain
+4,Premium,243033,Gain
+5,Premium,169320,Gain
+6,Premium,107856,Gain
+7,Premium,183534,Gain
+8,Premium,318816,Gain
+9,Premium,259521,Gain
+10,Premium,314427,Gain
+11,Premium,19965,Gain
+12,Premium,0,Zero
+1,Food,443982,Gain
+2,Food,2777643,Gain
+3,Food,2596206,Gain
+4,Food,2227200,Gain
+5,Food,1723476,Gain
+6,Food,1208020,Gain
+7,Food,1469214,Gain
+8,Food,2357364,Gain
+9,Food,2001792,Gain
+10,Food,2844126,Gain
+11,Food,299296,Gain
+12,Food,0,Zero
+1,Staff,-2765000,Loss
+2,Staff,-3400000,Loss
+3,Staff,-3318000,Loss
+4,Staff,-3362000,Loss
+5,Staff,-3361500,Loss
+6,Staff,-3198000,Loss
+7,Staff,-3485000,Loss
+8,Staff,-3527500,Loss
+9,Staff,-3276000,Loss
+10,Staff,-3483000,Loss
+11,Staff,-3362000,Loss
+12,Staff,-3108000,Loss
+1,Concert,450000,Gain
+2,Concert,0,Zero
+3,Concert,0,Zero
+4,Concert,0,Zero
+5,Concert,285000,Gain
+6,Concert,620000,Gain
+7,Concert,1200000,Gain
+8,Concert,420000,Gain
+9,Concert,0,Zero
+10,Concert,0,Zero
+11,Concert,720000,Gain
+12,Concert,1180000,Gain
+1,Conference,240000,Gain
+2,Conference,75000,Gain
+3,Conference,70000,Gain
+4,Conference,146000,Gain
+5,Conference,71000,Gain
+6,Conference,69000,Gain
+7,Conference,71000,Gain
+8,Conference,144000,Gain
+9,Conference,68500,Gain
+10,Conference,140000,Gain
+11,Conference,225000,Gain
+12,Conference,243000,Gain
+1,Insurance,-160000,Loss
+2,Insurance,-160000,Loss
+3,Insurance,-160000,Loss
+4,Insurance,-160000,Loss
+5,Insurance,-160000,Loss
+6,Insurance,-160000,Loss
+7,Insurance,-160000,Loss
+8,Insurance,-160000,Loss
+9,Insurance,-160000,Loss
+10,Insurance,-160000,Loss
+11,Insurance,-160000,Loss
+12,Insurance,-160000,Loss
+1,Maintenance,-1500000,Loss
+2,Maintenance,-540000,Loss
+3,Maintenance,-415000,Loss
+4,Maintenance,-430000,Loss
+5,Maintenance,-500000,Loss
+6,Maintenance,-530000,Loss
+7,Maintenance,-490000,Loss
+8,Maintenance,-510000,Loss
+9,Maintenance,-540000,Loss
+10,Maintenance,-525000,Loss
+11,Maintenance,-1000000,Loss
+12,Maintenance,-890000,Loss
+1,Utilities,-269093,Loss
+2,Utilities,-220770,Loss
+3,Utilities,-221023,Loss
+4,Utilities,-235475,Loss
+5,Utilities,-301120,Loss
+6,Utilities,-350674,Loss
+7,Utilities,-431345,Loss
+8,Utilities,-315497,Loss
+9,Utilities,-221451,Loss
+10,Utilities,-234718,Loss
+11,Utilities,-349573,Loss
+12,Utilities,-319202,Loss
+1,Advertising,437600,Gain
+2,Advertising,485000,Gain
+3,Advertising,432000,Gain
+4,Advertising,395000,Gain
+5,Advertising,372700,Gain
+6,Advertising,387500,Gain
+7,Advertising,420500,Gain
+8,Advertising,416600,Gain
+9,Advertising,382300,Gain
+10,Advertising,421650,Gain
+11,Advertising,416100,Gain
+12,Advertising,532000,Gain
