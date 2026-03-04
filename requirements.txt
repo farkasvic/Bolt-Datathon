@@ -1,0 +1,21 @@
+# Data manipulation & analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+altair>=5.0.0
+plotly>=5.0.0
+
+# Machine learning
+scikit-learn>=1.2.0
+scipy>=1.9.0
+
+# Utilities
+joblib>=1.2.0
+matplotlib-venn>=0.11.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
